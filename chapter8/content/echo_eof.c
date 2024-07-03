@@ -6,7 +6,7 @@ int main(void)
 
     while ((ch = getchar()) != EOF){ //输入Ctrl+Z 程序结束，在windows中,EOF 为Ctrl+Z
 
-        putchar(ch);
+        putchar(ch);sdfa
     }
 
     return 0;
